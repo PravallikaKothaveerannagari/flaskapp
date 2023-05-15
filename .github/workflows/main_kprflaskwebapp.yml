@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'kprflaskwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63AE36FAEAE84C1CA91FF3B5BFEF3B0E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5123737D2D8F4D059EBF0964F4B5E669 }}
